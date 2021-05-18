@@ -1,0 +1,31 @@
+.container{
+    padding-bottom: 100px;
+}
+.top-bg-img{
+
+
+    background-image:url(images/bg-1.png);
+    background-repeat: no-repeat;
+}
+.buy-now-button{
+
+    background-image: linear-gradient(to bottom,black 0%,black 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.price{
+    text-align: center;
+}
+.see{
+    text-align: end;
+    color: orange;
+    
+}
+
+
+.sec{
+    padding-top: 10%;
+}
